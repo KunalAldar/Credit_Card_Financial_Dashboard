@@ -76,15 +76,14 @@ This dashboard provides a comprehensive view of credit card financial metrics, h
 
 - **Power BI Desktop**
 - DAX for calculated columns and measures
-- Mysql database as data sources
-  **MySQL Database**
+- **Mysql database** as data sources
+
 
 ---
 
 ## 📬 Contact
 
 Feel free to reach out if you have suggestions, feedback, or questions!
-✨ Powered By
 ------------
 
 Made with ❤️ using Power Bi  
